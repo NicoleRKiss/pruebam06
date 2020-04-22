@@ -12,3 +12,5 @@ function restar (){
 }
 restar ()
 >>>>>>> 8203792dbfa0b57fe60886c0cffbf13cc426ee34
+
+console.log("Fede Blach");
