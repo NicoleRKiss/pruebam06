@@ -3,3 +3,8 @@ function sumar () {
     return a+b;
 }
 sumar ()
+
+function restar (){
+    return a-b;
+}
+restar ()
